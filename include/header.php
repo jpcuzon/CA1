@@ -37,7 +37,7 @@
 
 <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
 <div id="navDemo" class="w3-bar-block w3-dark-gray w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
-  <a href="index.php" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Home</a>
+  
   <a href="table.php" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Capitals</a>
   <a href="search.php" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Search a Capital</a>
 
